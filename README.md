@@ -41,6 +41,7 @@
 
 ---
 
+## Структура проєкту
 your-coffee-project/
 │
 ├── css/
